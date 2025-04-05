@@ -10,6 +10,7 @@ This dataset consists of the following files:
 - Customers
 - Products
 - Order details
+
 However, the files or data required in this project are only orders and order details data. You may also be able to use other files for other analysis.
 
 The main objectives of this RFM analysis are:
